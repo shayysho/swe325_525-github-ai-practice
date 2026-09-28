@@ -1,0 +1,32 @@
+# AI Log
+
+## AI interaction 1
+Date: 2026-09-28
+Assistant: Gemini
+Purpose: Clarify standard GitHub terms.
+Prompt or summary: Explain the difference between a repository, branch, commit, pull request, and issue.
+Useful suggestion: Provided clear, simple explanations for core GitHub concepts.
+Decision: accepted
+Reason: Helpful for understanding the workflow concepts before documenting them.
+Related GitHub URL: https://github.com/shayysho/swe325_525-github-ai-practice/issues/1
+
+## AI interaction 2
+Date: 2026-09-28
+Assistant: Gemini
+Purpose: Ask for a standard pull request checklist example.
+Prompt or summary: Suggest a checklist for a complete pull-request description.
+Useful suggestion: Suggested standard checklist items for reviewing project submissions.
+Decision: revised
+Reason: Adapted the checklist to only include necessary assignment steps and omit optional items.
+Related GitHub URL: https://github.com/shayysho/swe325_525-github-ai-practice/issues/1
+
+## AI interaction 3
+Date: 2026-09-28
+Assistant: Gemini
+Purpose: Review commit message suggestions.
+Prompt or summary: Suggest clear commit messages for the three changes.
+Useful suggestion: Suggested specific, descriptive commit titles instead of vague ones like 'update'.
+Decision: accepted
+Reason: Follows clear version control practices.
+Related GitHub URL: https://github.com/shayysho/swe325_525-github-ai-practice/issues/1
+```
