@@ -30,3 +30,20 @@ Decision: accepted
 Reason: Follows clear version control practices.
 Related GitHub URL: https://github.com/shayysho/swe325_525-github-ai-practice/issues/1
 ```
+
+## Reflection Questions
+1. **Which GitHub action or object was most useful to you, and why?**
+   The Pull Request feature was the most useful because it provides a centralized place to review changes, check history, and leave peer-review comments before merging into the main branch.
+
+2. **Which AI suggestion did you accept, and what made it useful?**
+   I accepted the suggestion to use descriptive commit messages instead of vague titles, which makes the repository history much easier to read and navigate.
+
+3. **Which AI suggestion did you revise or reject, and why?**
+   I revised suggestions regarding pull request checklist content to keep the scope strictly focused on the core assignment requirements without unnecessary clutter.
+
+4. **What did you verify yourself instead of trusting the AI?**
+   I manually verified that all files were properly rendered on GitHub.com and checked that the feature branch remained intact after merging.
+
+5. **What would you change in your GitHub workflow next time?**
+   Next time, I would create separate commits more frequently as individual changes are completed rather than bundling updates together.
+```
