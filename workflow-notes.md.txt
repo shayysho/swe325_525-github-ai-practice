@@ -1,0 +1,16 @@
+# Workflow Notes
+
+## Repository Overview
+- **Repository URL:** https://github.com/shayysho/swe325_525-github-ai-practice
+- **Default Branch:** main
+- **Feature Branch:** feature/github-ai-workflow
+- **Issue URL:** https://github.com/shayysho/swe325_525-github-ai-practice/issues/1
+
+## Explanation of GitHub Core Concepts
+- **Repository:** A central storage space where a project's files, revision history, and documentation reside.
+- **Issue:** A tracking item used to define tasks, report bugs, or outline project scope and acceptance criteria.
+- **Branch:** An isolated workspace parallel to the main code path, allowing changes to be made without affecting production code.
+- **Commit:** A recorded snapshot of specific changes saved into the repository's history with a descriptive message.
+- **Pull Request (PR):** A request to review and merge changes from a feature branch into the target default branch.
+- **Default Branch:** The primary branch (typically `main`) representing the official, stable state of the project.
+```
